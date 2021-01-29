@@ -1,0 +1,6 @@
+numpy==1.19.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+tensorflow-gpu==1.14.0
+matplotlib==3.0.3
+scikit_learn==0.24.1
