@@ -6,4 +6,4 @@ This notebook builds an SNN to determine similarity scores between MNIST digits 
 
 This notebook is based heavily on the approach described in [this Coursera course](https://www.coursera.org/learn/siamese-network-triplet-loss-keras/), which in turn is based on the [FaceNet](https://arxiv.org/abs/1503.03832) paper. Any uses of open-source code are linked throughout where utilised. 
 
-For an in-depth guide to understand this code, and the theory behind it, please see LINK.
+For an in-depth guide to understand this code, and the theory behind it, please see [my article for Towards Data Science](https://towardsdatascience.com/how-to-train-your-siamese-neural-network-4c6da3259463).
